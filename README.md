@@ -64,7 +64,9 @@ pytest test_py.py --reruns NUM
 ```
 5. 显示调试脚本print内容， 命令末尾加-s
 运行：
+```
 pytest test_py.py -s
+```
 6. 显示测试覆盖率
 安装pytest-cov：
 ```
